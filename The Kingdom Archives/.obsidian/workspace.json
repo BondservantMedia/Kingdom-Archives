@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "e159c442949873c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "653c84432ca1906a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abe6e13024f12825",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ba4fc6365cc8af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About The Kingdom Archives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df8b6cb199b0b00c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b85938532586ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03e3c1aac5ce0457",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e278bec16499fc92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bbaa8a80da6a3c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9879dcd526e162a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a324f46922bbd153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53392a35e63c88be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About The Kingdom Archives.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78f837782ffeb5f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "About The Kingdom Archives.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8016c48d7a8d52a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47cb76cbf8684506",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "About The Kingdom Archives.md"
+              }
+            }
+          },
+          {
+            "id": "d46e49ad57ad896e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "8ba4fc6365cc8af8",
+  "lastOpenFiles": [
+    "Books",
+    "About The Kingdom Archives.md"
+  ]
+}

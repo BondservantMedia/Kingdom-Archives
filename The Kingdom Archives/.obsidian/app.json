@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "attachmentFolderPath": "./Attachments",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
+}
