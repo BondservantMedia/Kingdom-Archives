@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About The Kingdom Archives.md",
-                "mode": "source",
+                "file": "Texts/The Twelve Patriarchs/The Twelve Patriarchs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About The Kingdom Archives.md",
+                "file": "Texts/The Twelve Patriarchs/The Twelve Patriarchs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "About The Kingdom Archives.md",
+                "file": "Texts/The Twelve Patriarchs/The Twelve Patriarchs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "About The Kingdom Archives.md"
+                "file": "Texts/The Twelve Patriarchs/The Twelve Patriarchs.md"
               }
             }
           },
@@ -166,7 +166,41 @@
   },
   "active": "8ba4fc6365cc8af8",
   "lastOpenFiles": [
-    "Books",
-    "About The Kingdom Archives.md"
+    "About The Kingdom Archives.md",
+    "Texts/The Twelve Patriarchs/The Twelve Patriarchs.md",
+    "Texts/The Twelve Patriarchs/Testament of Issachar.md",
+    "Texts/The Twelve Patriarchs/Testament of Judah.md",
+    "Texts/The Twelve Patriarchs/Testament of Levi.md",
+    "Texts/The Twelve Patriarchs/Testament of Zebulun.md",
+    "Texts/The Twelve Patriarchs/Testament of Dan.md",
+    "Texts/The Twelve Patriarchs/Testament of Naphtali.md",
+    "Texts/The Twelve Patriarchs/Testament of Gad.md",
+    "Texts/The Twelve Patriarchs/Testament of Asher.md",
+    "Texts/The Twelve Patriarchs/Testament of Joseph.md",
+    "Texts/The Twelve Patriarchs/The Testament of Joseph.md",
+    "Texts/The Twelve Patriarchs/Testament of Benjamin.md",
+    "Texts/The Twelve Patriarchs/The Testament of Benjamin.md",
+    "Texts/The Twelve Patriarchs/Testament of Simeon.md",
+    "Texts/The Twelve Patriarchs/Testament of Reuben.md",
+    "Texts/The Twelve Patriarchs/T12P-1 Testament of Reuben.md",
+    "Texts/The Twelve Patriarchs/T12P-2 Testament of Simeon.md",
+    "Texts/The Twelve Patriarchs/T12P-2 The Testament of Simeon.md",
+    "Texts/The Twelve Patriarchs/T12-1 Testament of Reuben.md",
+    "Texts/Daniel/Susanna/Susanna.md",
+    "Texts/Daniel/Susanna",
+    "Texts/Wisdom/Wisdom.md",
+    "Texts/Wisdom",
+    "Texts/Tobit/Tobit.md",
+    "Texts/Tobit",
+    "Texts/The Twelve Patriarchs/t12p 9 The Testament of Gad.md",
+    "Texts/The Twelve Patriarchs/t12p 8 The Testament of Naphtali.md",
+    "Texts/The Twelve Patriarchs/t12p 7 The Testament of Dan.md",
+    "Texts/The Twelve Patriarchs",
+    "Texts/Testament of Solomon",
+    "Texts/Susanna",
+    "Texts/Sirach",
+    "Texts/Sedrach",
+    "Texts/Prayer of Manasseh",
+    "Texts/Maccabees/2 Maccabees"
   ]
 }
