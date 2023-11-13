@@ -1,0 +1,11 @@
+Here are a few suggestions for texts that might interest you:
+1. [[1 Enoch]]
+2. [[Jubilees]]
+3. [[The Twelve Patriarchs]]
+4. [[1 Esdras]]
+5. [[2 Esdras]]
+6. [[1 Baruch]]
+7. [[2 Baruch]]
+8. [[Sirach]]
+9. [[Tobit]]
+10. [[Susanna]]
