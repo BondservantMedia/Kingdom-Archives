@@ -1,3 +1,8 @@
+---
+aliases:
+  - Testaments of the Twelve Patriarchs
+---
+### Books
 1. [[Testament of Reuben]]
 2. [[Testament of Simeon]]
 3. [[Testament of Levi]]

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Apocalypse of Sedrach
+---
 # The Apocalypse of Sedrach
 ### Sedrach 1
 ###### Sedrach 1:1

@@ -1,3 +1,7 @@
+---
+aliases:
+  - 3 Ezra
+---
 # 1 Esdras
 ### 1 Esdras 1
 ###### 1 Esdras 1:1

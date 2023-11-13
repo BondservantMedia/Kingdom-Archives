@@ -1,3 +1,7 @@
+---
+aliases:
+  - Ecclesiasticus
+---
 # Sirach
 ### Sirach 1
 ###### Sirach 1:1

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Shepherd of Hermas
+---
 # 1 Hermas
 ### 1 Hermas 1
 ###### 1 Hermas 1:1
