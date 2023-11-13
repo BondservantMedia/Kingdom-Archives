@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Collections  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084241
+      }
+    },
+    {
+      "query": "file:Text Info",
+      "color": {
+        "a": 1,
+        "rgb": 3690608
+      }
+    },
+    {
+      "query": "path:Texts  ",
+      "color": {
+        "a": 1,
+        "rgb": 9398474
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -18,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }

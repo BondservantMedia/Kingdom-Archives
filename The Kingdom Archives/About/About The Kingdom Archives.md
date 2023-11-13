@@ -10,3 +10,7 @@ These texts, and relevant supplementary materials and information, are saved in 
 It should be noted that **inclusion of any ancient text in this archive does NOT imply the particular text is in any way endorsed by the maintainers of this project.** These texts are made available for research and study purposes, and individuals can come to their own conclusions on the biblical significance of the included texts.
 
 Texts in this archive are included due to their professed or alleged significance to the biblical faith, whether or not they are deemed doctrinally sound in their entirety by the maintainers of the project.
+## Explore
+- [[Recommended Reading]]
+- [[All Texts]]
+- [[Apocrypha]]
