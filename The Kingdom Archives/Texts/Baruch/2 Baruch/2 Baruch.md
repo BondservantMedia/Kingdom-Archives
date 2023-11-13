@@ -1,3 +1,7 @@
+---
+aliases:
+  - Apocalypse of Baruch
+---
 # Second Baruch
 ### 2 Baruch 1
 ###### 2 Baruch 1:1
