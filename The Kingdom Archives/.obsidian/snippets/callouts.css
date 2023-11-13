@@ -1,0 +1,16 @@
+.callout[data-callout="toc"] {
+    --callout-color: 76, 140, 174;
+    --callout-icon: lucide-list;
+}
+
+.callout[data-callout="toc"] .callout-content {
+  font-size: 120%;
+  color: var(--text-faint);
+}
+
+.callout[data-callout="toc"] a.internal-link {
+    padding: 1px 10px;
+    background-color: var(--tag-background);
+    border-radius: 15%;
+    text-decoration: none;
+}
