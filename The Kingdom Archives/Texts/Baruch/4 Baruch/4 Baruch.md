@@ -1,4 +1,8 @@
 # Fourth Baruch
+
+> [!toc]- Table of Contents
+> [[#4 Baruch 1|1]] | [[#4 Baruch 2|2]] | [[#4 Baruch 3|3]] | [[#4 Baruch 4|4]] | [[#4 Baruch 5|5]] | [[#4 Baruch 6|6]] | [[#4 Baruch 7|7]] | [[#4 Baruch 8|8]] | [[#4 Baruch 9|9]]
+
 ### 4 Baruch 1
 ###### 4 Baruch 1:1
 It came to pass, when the children of Israel were taken captive by the king of the Chaldeans, that God spoke to Jeremiah saying: Jeremiah, my chosen one, arise and depart from this city, you and Baruch, since I am going to destroy it because of the multitude of the sins of those who dwell in it.

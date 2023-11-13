@@ -1,3 +1,7 @@
+
+> [!toc]- Table of Contents
+> [[#Susanna 1|1]]
+
 # Susanna
 ### Susanna 1
 ###### Susanna 1:1

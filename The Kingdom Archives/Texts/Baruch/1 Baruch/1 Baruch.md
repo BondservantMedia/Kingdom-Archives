@@ -1,4 +1,8 @@
 # Baruch
+
+> [!toc]- Table of Contents
+> [[#Baruch 1|1]] | [[#Baruch 2|2]] | [[#Baruch 3|3]] | [[#Baruch 4|4]] | [[#Baruch 5|5]]
+
 ### Baruch 1
 ###### Baruch 1:1
 And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Asadias, the son of Chelcias, wrote in Babylon,
