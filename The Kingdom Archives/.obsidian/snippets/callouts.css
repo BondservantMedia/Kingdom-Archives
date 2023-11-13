@@ -6,9 +6,12 @@
 .callout[data-callout="toc"] .callout-content {
   font-size: 120%;
   color: var(--text-faint);
+  text-align: justify;
 }
 
 .callout[data-callout="toc"] a.internal-link {
+    font-family: "Courier New", monospace;
+    font-weight: bold;
     padding: 1px 10px;
     background-color: var(--tag-background);
     border-radius: 15%;
