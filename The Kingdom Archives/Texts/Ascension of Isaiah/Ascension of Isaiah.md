@@ -1,4 +1,8 @@
 # The Ascension of Isaiah
+
+> [!toc]- Contents
+> [[#Ascension of Isaiah 1|1]] | [[#Ascension of Isaiah 2|2]] | [[#Ascension of Isaiah 3|3]] | [[#Ascension of Isaiah 4|4]] | [[#Ascension of Isaiah 5|5]] | [[#Ascension of Isaiah 6|6]] | [[#Ascension of Isaiah 7|7]] | [[#Ascension of Isaiah 8|8]] | [[#Ascension of Isaiah 9|9]] | [[#Ascension of Isaiah 10|10]] | [[#Ascension of Isaiah 11|11]]
+
 ### Ascension of Isaiah 1
 ###### Ascension of Isaiah 1:1
 And it came to pass in the twenty-sixth year of the reign of Hezediah king of Judah that he called Manasseh his son. Now he was his only one.

@@ -1,6 +1,6 @@
 # 3 Enoch
 
-> [!toc]- Table of Contents
+> [!toc]- Contents
 > [[#3 Enoch 1|1]] | [[#3 Enoch 2|2]] | [[#3 Enoch 3|3]] | [[#3 Enoch 4|4]] | [[#3 Enoch 5|5]] | [[#3 Enoch 6|6]] | [[#3 Enoch 7|7]] | [[#3 Enoch 8|8]] | [[#3 Enoch 9|9]] | [[#3 Enoch 10|10]] | [[#3 Enoch 11|11]] | [[#3 Enoch 12|12]] | [[#3 Enoch 13|13]] | [[#3 Enoch 14|14]] | [[#3 Enoch 15|15]] | [[#3 Enoch 16|16]] | [[#3 Enoch 17|17]] | [[#3 Enoch 18|18]] | [[#3 Enoch 19|19]] | [[#3 Enoch 20|20]] | [[#3 Enoch 21|21]] | [[#3 Enoch 22|22]] | [[#3 Enoch 23|23]] | [[#3 Enoch 24|24]] | [[#3 Enoch 25|25]] | [[#3 Enoch 26|26]] | [[#3 Enoch 27|27]] | [[#3 Enoch 28|28]] | [[#3 Enoch 29|29]] | [[#3 Enoch 30|30]] | [[#3 Enoch 31|31]] | [[#3 Enoch 32|32]] | [[#3 Enoch 33|33]] | [[#3 Enoch 34|34]] | [[#3 Enoch 35|35]] | [[#3 Enoch 36|36]] | [[#3 Enoch 37|37]] | [[#3 Enoch 38|38]] | [[#3 Enoch 39|39]] | [[#3 Enoch 40|40]] | [[#3 Enoch 41|41]] | [[#3 Enoch 42|42]] | [[#3 Enoch 43|43]] | [[#3 Enoch 44|44]] | [[#3 Enoch 45|45]] | [[#3 Enoch 46|46]] | [[#3 Enoch 47|47]] | [[#3 Enoch 48|48]]
 
 ### 3 Enoch 1

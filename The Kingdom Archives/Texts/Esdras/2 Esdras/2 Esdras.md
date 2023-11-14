@@ -3,6 +3,10 @@ aliases:
   - 4 Ezra
 ---
 # 2 Esdras
+
+> [!toc]- Contents
+> [[#2 Esdras 1|1]] | [[#2 Esdras 2|2]] | [[#2 Esdras 3|3]] | [[#2 Esdras 4|4]] | [[#2 Esdras 5|5]] | [[#2 Esdras 6|6]] | [[#2 Esdras 7|7]] | [[#2 Esdras 8|8]] | [[#2 Esdras 9|9]] | [[#2 Esdras 10|10]] | [[#2 Esdras 11|11]] | [[#2 Esdras 12|12]] | [[#2 Esdras 13|13]] | [[#2 Esdras 14|14]] | [[#2 Esdras 15|15]] | [[#2 Esdras 16|16]]
+
 ### 2 Esdras 1
 ###### 2 Esdras 1:1
 The second book of the prophet Esdras, the son of Saraias, the son of Azarias, the son of Helchias, the son of Sadamias, the sou of Sadoc, the son of Achitob,

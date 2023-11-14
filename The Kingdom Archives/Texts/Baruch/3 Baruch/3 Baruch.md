@@ -1,6 +1,6 @@
 # Third Baruch
 
-> [!toc]- Table of Contents
+> [!toc]- Contents
 > [[#3 Baruch 1|1]] | [[#3 Baruch 2|2]] | [[#3 Baruch 3|3]] | [[#3 Baruch 4|4]] | [[#3 Baruch 5|5]] | [[#3 Baruch 6|6]] | [[#3 Baruch 7|7]] | [[#3 Baruch 8|8]] | [[#3 Baruch 9|9]] | [[#3 Baruch 10|10]] | [[#3 Baruch 11|11]] | [[#3 Baruch 12|12]] | [[#3 Baruch 13|13]] | [[#3 Baruch 14|14]] | [[#3 Baruch 15|15]] | [[#3 Baruch 16|16]] | [[#3 Baruch 17|17]]
 
 ###### 3 Baruch 0:0

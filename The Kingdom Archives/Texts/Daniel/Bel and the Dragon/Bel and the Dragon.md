@@ -1,7 +1,3 @@
-
-> [!toc]- Table of Contents
-> [[#Bel and the Dragon 1|1]]
-
 # Bel and the Dragon
 ### Bel and the Dragon 1
 ###### Bel and the Dragon 1:1

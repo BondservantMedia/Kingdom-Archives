@@ -1,4 +1,8 @@
 # 2 Adam and Eve
+
+> [!toc]- Contents
+> [[#2 Adam and Eve 1|1]] | [[#2 Adam and Eve 2|2]] | [[#2 Adam and Eve 3|3]] | [[#2 Adam and Eve 4|4]] | [[#2 Adam and Eve 5|5]] | [[#2 Adam and Eve 6|6]] | [[#2 Adam and Eve 7|7]] | [[#2 Adam and Eve 8|8]] | [[#2 Adam and Eve 9|9]] | [[#2 Adam and Eve 10|10]] | [[#2 Adam and Eve 11|11]] | [[#2 Adam and Eve 12|12]] | [[#2 Adam and Eve 13|13]] | [[#2 Adam and Eve 14|14]] | [[#2 Adam and Eve 15|15]] | [[#2 Adam and Eve 16|16]] | [[#2 Adam and Eve 17|17]] | [[#2 Adam and Eve 18|18]] | [[#2 Adam and Eve 19|19]] | [[#2 Adam and Eve 20|20]] | [[#2 Adam and Eve 21|21]] | [[#2 Adam and Eve 22|22]]
+
 ### 2 Adam and Eve 1
 ###### 2 Adam and Eve 1:1
 When Luluwa heard Cain's words, she wept and went to call her father and mother, and told them how that Cain had killed his brother Abel.

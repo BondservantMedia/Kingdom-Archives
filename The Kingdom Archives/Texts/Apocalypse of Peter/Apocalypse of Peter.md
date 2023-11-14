@@ -1,4 +1,8 @@
 # Apocalypse of Peter
+
+> [!toc]- Contents
+> [[#Apocalypse of Peter 1|1]] | [[#Apocalypse of Peter 2|2]] | [[#Apocalypse of Peter 3|3]] | [[#Apocalypse of Peter 4|4]] | [[#Apocalypse of Peter 5|5]] | [[#Apocalypse of Peter 6|6]] | [[#Apocalypse of Peter 7|7]] | [[#Apocalypse of Peter 8|8]] | [[#Apocalypse of Peter 9|9]] | [[#Apocalypse of Peter 10|10]] | [[#Apocalypse of Peter 11|11]] | [[#Apocalypse of Peter 12|12]] | [[#Apocalypse of Peter 13|13]] | [[#Apocalypse of Peter 14|14]] | [[#Apocalypse of Peter 15|15]] | [[#Apocalypse of Peter 16|16]] | [[#Apocalypse of Peter 17|17]]
+
 ### Apocalypse of Peter 1
 ###### Apocalypse of Peter 1:1
 The Second Coming of Christ and Resurrection of the Dead (which Christ revealed unto Peter) who died because of their sins, for that they kept not the commandment of God their creator.

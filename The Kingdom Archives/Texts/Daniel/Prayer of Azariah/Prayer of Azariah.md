@@ -1,7 +1,3 @@
-
-> [!toc]- Table of Contents
-> [[#Prayer of Azariah 1|1]]
-
 # Prayer of Azariah
 ### Prayer of Azariah 1
 ###### Prayer of Azariah 1:1
